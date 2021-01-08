@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, aws-lambda, github-workflow-oracle-oci-functions, java, junit, maven, oracle-function, readme, shade, slf4j-simple, yaml]
